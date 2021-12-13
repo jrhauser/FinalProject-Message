@@ -1,0 +1,19 @@
+MUST
+
+Break funcitonality out into actual methods of the class 
+
+Make a runtime method that loops until exited and lets user choose different methods
+
+Clean up conversion of inputed plaintext to matrix (actually use loops)
+
+Post project to github once it's a little more finished
+
+MAYBE
+
+Method to change the size of the matrices (give choices for key and message size, disallow incompatible sizes)
+
+Randomly generate new key for the user (could be harder than expected due to linear algebra stuff, good question for professor/riley etc.)
+
+Clean up imports to save memory/resources
+
+
